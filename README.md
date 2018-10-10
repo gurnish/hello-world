@@ -1,3 +1,3 @@
 # hello-world
-velle bandian de kamm
-i don't like  tacos
+velle bandian de kamm.
+i don't like  tacos.
